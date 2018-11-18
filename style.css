@@ -1,0 +1,65 @@
+body {
+    min-width: 100%;
+    max-width: 1601px;
+    height: 3267px;
+    margin: 0 auto;
+    padding: 0;
+    border: 1, gray;
+      }
+.top {
+    width: 1601px;
+    height: 100px;
+    background-color: #767d8c;
+}
+    h1 {
+    width: 104px;
+    height: 22px;
+    color: #2d3950;
+    font-family: Lato;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 20px;
+    text-transform: uppercase;
+    letter-spacing: 0.75px;
+ }
+ .banner {
+width: 1600px;
+height: 800px;
+opacity: 10%;
+}
+.simple {
+width: 1603px;
+height: 340px;
+}
+h2 {
+    width: 388px;
+    height: 37px;
+    color: #2d3950;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-align: center;
+}
+.designers {
+    width: 1101px;
+    height: 81px;
+    color: #999999;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0.5px;
+    text-align: center;
+}
+.feature
+{
+    width: 1603px;
+    height: 340px;
+}
+.responsive {
+    width: 255px;
+    height: 210px;
+
+    text-align: center;
+}
